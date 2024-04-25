@@ -1,4 +1,4 @@
-# Motion Detection Alarm System
+# UrbanGreens
 
 Video demo: https://youtu.be/kewPBWuoN5g
 
