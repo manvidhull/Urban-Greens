@@ -1,0 +1,21 @@
+.recommended-flex {
+  display: flex;
+  margin-left: 20rem;
+  background-color: white;
+}
+
+.recommended-title {
+  margin-left: 20rem;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.button {
+  animation: fadeIn 0.5s ease-in-out forwards;
+  opacity: 0;
+}
