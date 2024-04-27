@@ -1,46 +1,70 @@
-# UrbanGreens
+# Getting Started with Create React App
 
-Video demo: https://youtu.be/kewPBWuoN5g
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-NOTE: Smartcontract address on Avail: 0x3ACd479d5e0A7BF2d11c84690277a9a92795f06d 
-### Subgraphs: https://github.com/Tarun-k-Gupta/graphMumbai 
+## Available Scripts
 
-## Problem Statement: 
-In our cities, there's vast potential in idle rooftops and vacant lots, yet they remain largely unused. Simultaneously, high unemployment rates deepen social and economic divides. We face the challenge of tapping into these underutilized urban spaces for sustainable agriculture and job creation. What we need is a decentralized marketplace that connects individuals with landowners, leveraging blockchain to unlock opportunities and address pressing urban challenges. Finding suitable spaces for innovative farming methods like hydroponics and aeroponics is particularly challenging. Additionally, securing lease agreements between buyers and landlords poses another hurdle. Our focus is on addressing these issues by leveraging blockchain technology.
+In the project directory, you can run:
 
-## Solution:
+### `npm start`
 
-Our solution, UrbanGreens, leverages blockchain technology to revolutionize urban agriculture and tackle unemployment in cities. By providing a decentralized marketplace for leasing underutilized urban spaces, we empower individuals and organizations to engage in innovative farming practices such as hydroponics and aeroponics.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Example Scenario:
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Meet Vedika, Ishpreet, Manvi, and Tarun, our team members at UrbanGreens. In our scenario, Vedika owns a large rooftop space in the heart of the city, while Ishpreet, Manvi, and Tarun are passionate about urban agriculture and eager to start their farming venture.
+### `npm test`
 
-Vedika, as the landlord, lists her rooftop space on UrbanGreens, detailing its location, size, and potential for agricultural use. Ishpreet, Manvi, and Tarun, recognizing the opportunity, decide to pool their resources and lease Vedika's rooftop collectively.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Through UrbanGreens' fractional ownership feature, Ishpreet, Manvi, and Tarun join forces, contributing their funds and expertise to transform Vedika's rooftop into a thriving urban farm. With secure transactions facilitated by blockchain technology, they enter into a transparent lease agreement, ensuring fair terms for all parties involved.
+### `npm run build`
 
-Utilizing hydroponics and aeroponics techniques, Ishpreet, Manvi, and Tarun cultivate a variety of crops on the rooftop, maximizing its agricultural potential. Meanwhile, Vedika receives a steady income from leasing her underutilized space, contributing to her financial stability.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-As a result, Vedika's rooftop is no longer idle, but a productive urban farm, addressing the challenge of underutilized urban spaces. Furthermore, Ishpreet, Manvi, and Tarun create job opportunities for themselves and potentially others, mitigating unemployment rates in the city.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-In this example, UrbanGreens facilitates collaboration and resource-sharing among stakeholders, effectively transforming underutilized urban spaces into opportunities for sustainable agriculture and economic growth.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-![web](https://github.com/ishpreetkaurkhalsa/urban-green-2/assets/107416261/f4c35316-cb55-4bdc-80df-91f98ff46df4)
-<br/>
-<h1>Anon Aadhaar</h1>
+### `npm run eject`
 
-![anon](https://github.com/ishpreetkaurkhalsa/urban-green-2/assets/107416261/9519708f-af18-4688-832a-908fa387d307)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<h1>Arweave</h1>
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-![arweave](https://github.com/ishpreetkaurkhalsa/urban-green-2/assets/107416261/0bbdb43a-4bf5-464b-81d2-9c79193dd6fe)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-<br/>
-<h1>The Graph</h1>
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-![subgraph](https://github.com/ishpreetkaurkhalsa/urban-green-2/assets/107416261/4692abe7-2cc6-418a-87b7-89b87448ee72)
+## Learn More
 
-<br/>
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
